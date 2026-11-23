@@ -1,7 +1,7 @@
 [
-  {"name": "prevline", "keys": "ctrl+shift+u"},
-  {"name": "curline", "keys": "ctrl+shift+i"},
-  {"name": "nextline", "keys": "ctrl+shift+o"},
-  {"name": "lastline", "keys": "ctrl+shift+n"},
-  {"name": "stopspeech", "keys": "ctrl+s"}
+  {"name": "reader previous line", "keys": "ctrl+shift+u"},
+  {"name": "reader current line", "keys": "ctrl+shift+i"},
+  {"name": "reader next line", "keys": "ctrl+shift+o"},
+  {"name": "reader last line", "keys": "ctrl+shift+n"},
+  {"name": "reader stop speech", "keys": "ctrl+s"}
 ]

@@ -1,3 +1,8 @@
 [
-	{"name": "code"}
+	{"name": "reader core"},
+	{"name": "reader speech"},
+	{"name": "reader navigation"},
+	{"name": "reader.onLine"},
+	{"name": "reader.onCommandSent", "eventHandlerList": ["sysDataSendRequest"]},
+	{"name": "reader.onUninstall", "eventHandlerList": ["sysUninstall"]}
 ]

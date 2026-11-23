@@ -1,0 +1,6 @@
+[
+	{
+		"name": "reader incoming line",
+		"patterns": [ { "pattern": "^", "type": "regex" } ]
+	}
+]
